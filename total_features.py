@@ -339,8 +339,8 @@ secondary_outcomes = [
 feature_categories = {
     'climate_feats': climate_feats,
     'demographic_feats': demographic_feats,
-    'economic_feats':economic_feats,
-    'housing_feats':housing_feats,
-    'local_policies_feats':local_policies_feats,
-    'local_policies_feats':safety_net_feats
+    'economic_feats': economic_feats,
+    'housing_feats': housing_feats,
+    'local_policies_feats': local_policies_feats,
+    'safety_net_feats': safety_net_feats
 }
